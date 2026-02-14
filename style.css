@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0f1a;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    padding: 40px;
+    background: linear-gradient(45deg, #0a3cff, #00c6ff);
+}
+
+.logo {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.buttons a {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 25px;
+    background: #001aff;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.section {
+    padding: 50px;
+    text-align: center;
+}
+
+.regras-img {
+    width: 300px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.regras-box {
+    background: #111a2e;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+}
+
+.cargo {
+    background: #111a2e;
+    margin: 15px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+.forum-box {
+    background: #111a2e;
+    padding: 20px;
+    margin: 15px auto;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: #0055ff;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+footer {
+    background: #05070f;
+    padding: 20px;
+    text-align: center;
+}
